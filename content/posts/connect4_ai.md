@@ -139,3 +139,5 @@ But would Alice ever go down such a path? No! We already know that no matter wha
 ![Minimax](/images/alpha-beta-tree-4.png)
 
 This is a far more efficient way of traversing the tree, and if you can traverse the tree more efficiently, you can afford to go a little deeper, which yields more high-quality moves from the AI.
+
+You can find a link to the project on [My Github](https://github.com/The-AI-Alchemist/Connect4)
