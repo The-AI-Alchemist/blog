@@ -1,6 +1,6 @@
 ---
-title: "Burokku_blocks"
-date: 2024-07-17T12:08:33-07:00
+title: "Burokku Blocks"
+date: 2024-08-06T12:08:33-07:00
 draft: true
 ---
 
@@ -31,14 +31,22 @@ The highlighted sides represent the sides we're joining.
 I don't know the exact math, I would love for someone to tell me how this would be calculated more formally, but I came up with the number 8.
 
 I have named all of these joints as well:
+
 I-Joint (Up, Down)
+
 L-Joint (Up, Right)
+
 T-Joint (Up, Right, Left) or (Down, Right, Left) to see the letter
+
 Y-Joint (Up, Right, Front) or (Down, Right, Front) to see the letter
+
 X-Joint (Up, Right, Down, Left)
+
 K-Joint (Up, Right, Front, Down)
+
 D-Joint (Up, Right, Front, Down, Left)
-O-Joint (Up, Right, Front, Down, Left, Back)'
+
+O-Joint (Up, Right, Front, Down, Left, Back)
 
 Some of these joints can be held together more firmly with pegs, also 3D printed, I'm still experimenting with different peg designs to see what prints well, fits well, and is easy to remove, but for now, these are the models of the I and L joints I have:
 
