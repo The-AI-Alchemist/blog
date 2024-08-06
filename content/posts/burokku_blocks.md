@@ -1,7 +1,7 @@
 ---
 title: "Burokku Blocks"
 date: 2024-08-06T12:08:33-07:00
-draft: true
+draft: false
 ---
 
 Another project from before I started this blog. I made some toy blocks inspired by traditional Japanese carpentry. Japanese carpentry uses no nails, due to a lack of metal of sufficient quality, and also a humid environment, in which pierced wood would be prone to rot. I used this as inspiration for a lego-like set of blocks. I call them "Burokku Blocks", "burokku"(ブロック) being the Japanese word for block.
