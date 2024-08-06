@@ -1,7 +1,7 @@
 ---
 title: "Connect-4 AI"
 date: 2024-07-03T19:06:57-07:00
-draft: true
+draft: false
 ---
 
 A while back I created an AI that played connect-4 at a level that no human it played against could top. The project is on my github if you want to check it out. Forgive me, as the project isn't the cleanest code I've ever written, inconsistent casing, and run-on files.
@@ -140,4 +140,4 @@ But would Alice ever go down such a path? No! We already know that no matter wha
 
 This is a far more efficient way of traversing the tree, and if you can traverse the tree more efficiently, you can afford to go a little deeper, which yields more high-quality moves from the AI.
 
-You can find a link to the project on [My Github](https://github.com/The-AI-Alchemist/Connect4)
+You can find a link to the project on [my Github](https://github.com/The-AI-Alchemist/Connect4)
