@@ -137,7 +137,9 @@ Ike(base of neck)
 
 #### Environment
 Epis(floor)
+
 Epar(wall)
+
 Esil(ceiling)
 
 # Verbs
@@ -154,9 +156,14 @@ Ta(clothed, e.g. to grab a clothed wrist is to grab by the end of the sleeve)
 
 # Adverbs
 Dak(With force, e.g. to contact with force is to strike, not technically legal in Jiu-Jitsu, but still useful to discuss)
+
+
 Dot(Thumbless)
+
 Dis(With thumb)
+
 Dul(Gable grip)
+
 Der(Champion grip)
 
 # Particles
