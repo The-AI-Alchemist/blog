@@ -7,6 +7,7 @@ draft: false
 I have composed a message, meant for humans to send into space in hopes that an ETI (extra-terrestrial intelligence) may hear it. Instead of following a typical blog format and telling you how I composed it, I leave it up to you to see if I did a good enough job to create something that at a very minimum a human can decode. Note that this is the first part of a multi-segment message, and your only hint is that the message is in binary.
 
 I will not disclose whether the message is structured with a fixed bitwidth, nor what the bidwidth may be
+
 I will not disclose the program I created, then used to compose the message
 
 Without further ado, here is the message's bytecode:
