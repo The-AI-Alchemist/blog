@@ -1,5 +1,5 @@
 ---
-title: "Desmos_original_music_kauai_oo"
+title: "Kaua'i O'o: An original song made in desmos"
 date: 2024-11-26T17:47:28-08:00
 draft: true
 ---
