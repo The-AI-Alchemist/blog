@@ -1,5 +1,5 @@
 ---
-title: "Desmos_3D_graphics"
+title: "Desmos 3D Graphics"
 date: 2024-11-17T15:16:13-08:00
 draft: true
 ---
