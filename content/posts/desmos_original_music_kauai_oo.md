@@ -36,10 +36,10 @@ Other music systems from different cultures of course do define their "note 0" d
 
 Another value assigned arbitrarily is the 12 notes to double, the size of the octave. Different cultures have had 5,6,7, and others as their octave size.
 
-To play the music in the song I wrote, we have 4 lists of notes; 4 channels. We also have a variable "I" representing the index; how far we are into the song. We also have the funciton "U" which increases I by 1, until it reaches the end of the song, where it then loops back to the beginning(because I couldn't think of anything else for it to do when it ended). For each channel, there is a place in the graph where the note at the current index is played, and we have set the ticker at the top of the graph to run the function "U" every quarter second (250ms), playing the song.
+To play the music in the song I wrote, we have 4 lists of notes; 4 channels. We also have a variable "I" representing the index; how far we are into the song. We also have the funciton "U" which increases I by 1, until it reaches the end of the song, where it then loops back to the beginning(because I couldn't think of anything else for it to do when it ended). For each channel, there is a place in the graph where the note at the current index is played, and we have set the ticker at the top of the graph to run the function "U" every quarter second (250ms), playing the song. Lastly, if I wanted a channel to be silent, not play anything, I just told it to play "note sqrt(-1)", and that got him to shut up.
 
 I also rigged up a pretty little visual of the song, which made it easier to edit and more fun to look at.
 
-Here's my graph:
+Here's my graph(be sure to press the unmute button in the top right):
 
-https://www.desmos.com/calculator/dwemfkk8bk
+https://www.desmos.com/calculator/nfqfkdfrc2
